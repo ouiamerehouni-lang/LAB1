@@ -1,0 +1,1 @@
+{"request_id": "string", "model_version": "churn_model_v1_20251221_132203.joblib", "prediction": 1, "probability": 0.998662, "latency_ms": 49.188, "features": {"tenure_months": 200, "num_complaints": 50, "avg_session_minutes": 500.0, "plan_type": "string", "region": "STRING"}, "ts": 1766324401}
